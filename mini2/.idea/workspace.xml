@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bb98332-792d-44a0-9e5f-4883362fea55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aWVlanBbR3ROWeUotzsQ5sdc3D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro.project" />
+      <module name="mini2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb98332-792d-44a0-9e5f-4883362fea55" name="Default Changelist" comment="" />
+      <created>1586851489109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586851489109</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587281301417">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1587281301417" />
+    <state x="463" y="89" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1586943075088">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="89" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.768@0.0.1366.768" timestamp="1586943075088" />
+    <state width="1367" height="592" key="GridCell.Tab.0.bottom" timestamp="1589475105688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="592" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589475105688" />
+    <state width="1367" height="2" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587837686203" />
+    <state width="1367" height="592" key="GridCell.Tab.0.center" timestamp="1589475105684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="592" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589475105684" />
+    <state width="1367" height="2" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587837686203" />
+    <state width="1367" height="592" key="GridCell.Tab.0.left" timestamp="1589475105684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="592" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589475105684" />
+    <state width="1367" height="2" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587837686202" />
+    <state width="1367" height="592" key="GridCell.Tab.0.right" timestamp="1589475105688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="592" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589475105688" />
+    <state width="1367" height="2" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587837686203" />
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.1.bottom" timestamp="1589431609479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589431609479" />
+    <state width="1367" height="631" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587665627017" />
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.1.center" timestamp="1589431609477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589431609477" />
+    <state width="1367" height="631" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1587665627016" />
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.1.left" timestamp="1589431609476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589431609476" />
+    <state width="1367" height="631" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1587665627016" />
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.1.right" timestamp="1589431609478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589431609478" />
+    <state width="1367" height="631" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1587665627016" />
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.2.bottom" timestamp="1589431609449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589431609449" />
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.2.center" timestamp="1589431609445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1589431609445" />
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.2.left" timestamp="1589431609445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1589431609445" />
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.2.right" timestamp="1589431609445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1366" height="599" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1589431609445" />
+    <state x="379" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1589261220910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589261220910" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1588275862958" />
+    <state x="0" y="63" width="1382" height="666" key="dock-window-1" timestamp="1589431627929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="63" width="1382" height="666" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1589431627929" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1587658566569">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1587658566569" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586961038623">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1586961038623" />
+    <state x="405" y="296" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1587811412586">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="405" y="296" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.768@0.0.1366.768" timestamp="1587811412586" />
+  </component>
+</project>
